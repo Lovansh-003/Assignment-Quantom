@@ -1,0 +1,130 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+.nvbar{
+    background-color: rgb(11 38 79);
+    padding-top: 50px;
+}
+.list1{
+    margin-top: 30px;
+}
+.part2{
+    background-color: #f8f9fa;
+    width: 100%;
+}
+#docImg{
+    border-radius: 50%;
+}
+.dash{
+    margin-left: 30px;
+}
+.doc{
+    float: right;
+}
+.appoint{
+    margin-left: 30px;
+}
+.box1{
+    height: auto;
+    width: 93%;
+    margin-left: 30px;
+    padding-bottom: 35px;
+    background-color: white;
+    border-radius: 5%;
+    text-align: center;
+}
+.patient img{
+    margin-top: 50px;
+    border-radius: 15%;
+}
+.patient p{
+    color: #f8f9fa;
+}
+.box2{
+    height: auto;
+    width: 93%;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 5%;
+}
+.ques{
+    display: flex;
+}
+.key{    
+    list-style-type: none;
+    padding: 0px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+.key li{
+    margin-top: 5px;
+}
+.value{
+    list-style-type: none;
+}
+.value li{
+    margin-top: 5px;
+}
+.boxes{
+    text-align: center;
+}
+.box3{
+    height: auto;
+    width: 77%;
+    margin-left: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 5%;
+}
+.box3 p{
+    font-weight: bold;
+}
+.box4{
+    height: auto;
+    width: 93%;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 5%;
+}
+.box4 h4{
+    padding-top: 20px;
+    padding-left: 35px;
+}
+.results{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 35px;
+}
+.creatine{
+    margin-left: 180px;
+}
+.eye{
+    margin-left: 205px;
+}
+.box5{
+    height: auto;
+    width: 93%;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 5%;
+}
+.box5 button{
+    width: 100%;
+    margin-top: 10px;
+    border: 1px dashed green;
+}
+.box5 h4{
+    padding-top: 20px;
+    padding-left: 35px;
+}
+.heads{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 33px;
+}
